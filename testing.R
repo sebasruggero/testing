@@ -1,3 +1,5 @@
-print("This file was created within RStudio")
+install.packages("ggplot2")
+library(ggplot2)
 
-print("And now it lives on GitHub")
+
+
